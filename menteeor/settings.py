@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'menteeor_app.apps.MenteeorAppConfig'
+    'menteeor_app.apps.MenteeorAppConfig',
+    'accounts'
 ]
 
 MIDDLEWARE = [
